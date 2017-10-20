@@ -1,0 +1,27 @@
+{
+	"voce": [
+		{
+			"ime": "banane",
+			"kolicina": 2,
+			"jedinica mere": "kg"
+		},
+
+		{
+			"ime": "jabuke",
+			"kolicina": 4,
+			"jedinica mere": "kg"
+		},
+
+		{
+			"ime": "kruske",
+			"kolicina": 3,
+			"jedinica mere": "kg"
+		},
+
+		{
+			"ime": "breskve",
+			"kolicina": 7,
+			"jedinica mere": "kg"
+		}
+	]
+}
